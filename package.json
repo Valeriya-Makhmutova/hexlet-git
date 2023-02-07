@@ -1,5 +1,24 @@
 {
+  "name": "hexlet-git",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Hello, Hexlet! How are you? experiment with amend",
+  "main": "index.js",
   "dependencies": {
     "lodash": "^4.17.21"
-  }
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Valeriya-Makhmutova/hexlet-git.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Valeriya-Makhmutova/hexlet-git/issues"
+  },
+  "homepage": "https://github.com/Valeriya-Makhmutova/hexlet-git#readme"
 }
